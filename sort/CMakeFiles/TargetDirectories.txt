@@ -1,0 +1,3 @@
+/home/timetostop/projects/try-to-work/infotecs/task2/sort/CMakeFiles/rebuild_cache.dir
+/home/timetostop/projects/try-to-work/infotecs/task2/sort/CMakeFiles/edit_cache.dir
+/home/timetostop/projects/try-to-work/infotecs/task2/sort/CMakeFiles/sort.dir
